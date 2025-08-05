@@ -44,51 +44,71 @@ AI + Web3 Gaming Platform built in Unity. NFT avatars, real-time voice commands 
 ### 🌌 [Exo\_xplore](https://github.com/The-TACS/Exo_xplore)
 
 Explore the exoplanets! React/Node.js app with GitHub login, user dashboard, interactive quizzes, and 3D visual space journeys. Featured in the **NASA Space Apps Challenge**, this tool brought astronomy to life through interactivity and visualization.
+
+
 **Tech Stack:**\*\* React.js, Node.js, Express.js, MongoDB, Three.js, Firebase, GitHub OAuth
 
 ### 💸 [InvoNFT](https://github.com/The-TACS/InvoNFT)
 
 Web3-based NFT invoicing app built with Solidity + Hardhat. Features tokenized billing, wallet auth, IPFS metadata. Built at NeoXGrind Hackathon and marked the team's first step into decentralized finance solutions.
+
+
 **Tech Stack:**\*\* Solidity, Hardhat, Web3.js, React.js, IPFS, MetaMask
 
 ### 🎵 [Music\_NFT](https://github.com/The-TACS/Music_NFT)
 
 Decentralized music streaming dApp with NFT-based ownership and smart contracts. This project was an internal innovation exploring ownership-based streaming mechanics in the Web3 space.
+
+
 **Tech Stack:**\*\* Solidity, Hardhat, React.js, Web3.js, IPFS
 
 ### 🎤 [Voice-Control Pacman](https://github.com/The-TACS/Voice-control-Pacman)
 
 Browser-based Pacman controlled via voice commands—accessibility-focused game. It was developed to explore how voice interfaces can make classic games more inclusive and won special mention in accessibility challenges.
+
+
 **Tech Stack:**\*\* JavaScript, HTML5, Web Speech API, CSS3
 
 ### 🛹 [Glyde Skate](https://github.com/The-TACS/Glyde-Skate-Project)
 
-Unity-based skateboarding sim with realistic physics, shaders, and AR-style responsiveness. Won first place at a campus tech fest for creative gameplay mechanics and visual polish.
+Unity-based skateboarding sim with realistic physics, shaders, and AR-style responsiveness. Won first place at a national level hackathon - HackArCode for creative gameplay mechanics and visual polish.
+
+
 **Tech Stack:**\*\* Unity, C#, WebGL, Shader Graph
 
 ### 🤖 [HerNest AI](https://github.com/The-TACS/HerNest-AI)
 
 Emotionally intelligent roommate matcher using NLP, voice AI, and persona profiling. Built for SheBuilds Hackculture and praised for empathetic AI matchmaking—designed by and for women.
+
+
 **Tech Stack:**\*\* Python, Flask, NLP, Azure Voice AI, Firebase
 
 ### 🗣️ [ExpressYou](https://github.com/The-TACS/ExpressYou)
 
 Blockchain-powered anonymous confession app on DeSo chain. This project enabled mental health expression with security and anonymity using decentralized identity.
+
+
 **Tech Stack:**\*\* React.js, Flask, DeSo API, Firebase
 
 ### 🌾 [Krishi Anukoolan](https://github.com/The-TACS/Krishi-Anukoolan)
 
 Farmer-support dashboard with crop planning tools, alerts, and multilingual UX. Used in local agricultural outreach programs, helping smallholder farmers access timely insights.
+
+
 **Tech Stack:**\*\* HTML5, CSS3, JavaScript, Chart.js, Google Translate API
 
 ### 🧩 [AR Image Tracking](https://github.com/The-TACS/AR-Image-Tracking)
 
 Unity app that overlays content on real-world objects using ARFoundation. Demonstrated in workshops on augmented reality and image recognition at student developer summits.
+
+
 **Tech Stack:**\*\* Unity, C#, ARFoundation, Vuforia
 
 ### 🧪 [our-personal-projects](https://github.com/The-TACS/our-personal-projects)
 
 Experimental collab repo by team TACS — ideas, PoCs, and prototypes. Many of these helped form the foundation for hackathon wins and internal accelerator entries.
+
+
 **Tech Stack:**\*\* Varies across sub-projects (React.js, Flask, Node.js, Python)
 
 ### 🌍 Coming Soon
@@ -102,11 +122,17 @@ New products under research in generative AI, AI voice agents, and 3D metaverse 
 ![Internship Ready](https://img.shields.io/badge/Internship-Ready-brightgreen) ![Actively Seeking](https://img.shields.io/badge/Actively%20Seeking-Software%20Engineer-blue)
 
 **Languages:** Java, Python, JavaScript, C++
+
 **Frameworks:** React.js, Node.js, Express, Spring Boot, Flask
-**Blockchain:** Solidity, Hardhat, Web3.js, Moralis, IPFS
+
+**Blockchain:** Solidity, Hardhat, Web3.js, Moralis
+
 **AI/ML:** OpenCV, NLP, GPT-4, Azure Voice AI
+
 **Visualization:** Three.js, WebGL, Unity 3D, ARFoundation
+
 **Databases:** MongoDB, MySQL
+
 **Tools:** Git, Firebase, Postman, Figma
 
 ---
