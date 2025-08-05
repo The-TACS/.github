@@ -141,7 +141,13 @@ New products under research in generative AI, AI voice agents, and 3D metaverse 
 ## 📩 Call to Recruiters
 
 🚀 **Looking to hire a builder who codes, designs, and delivers? Let’s talk.**
-📬 Reach out via [LinkedIn](https://www.linkedin.com/in/sakshi-chilkoti-278252285/) or email me at **[sakshichilkotibusiness@gmail.com](mailto:sakshichilkotibusiness@gmail.com)**
+📬 Reach out via
+
+Founder:
+[LinkedIn](https://www.linkedin.com/in/sakshi-chilkoti-278252285/) or email me at **[sakshichilkotibusiness@gmail.com](mailto:sakshichilkotibusiness@gmail.com)**
+
+Co-Founder:
+[LinkedIn](https://www.linkedin.com/in/ayush-tiwari-67b904308/) or email me at **[ayushtiwari2195@gmail.com](mailto:ayushtiwari2195@gmail.com)**
 
 ---
 
