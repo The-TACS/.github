@@ -4,7 +4,7 @@
 
 We are **TACS**, a next-gen software innovation hub building products that fuse deep tech with creativity. Whether it's full-stack platforms, AI-powered tools, or Web3 gaming ecosystems, we build for impact, scale, and delight.
 
-🌐 [GitHub](https://github.com/The-TACS) • [Founder](https://www.linkedin.com/in/sakshi-chilkoti-278252285/) • 📧 [sakshichilkotibusiness@gmail.com](mailto:sakshichilkotibusiness@gmail.com)
+🌐 [GitHub](https://github.com/The-TACS) • [Founder](https://www.linkedin.com/in/sakshi-chilkoti-278252285/)• [Co-Founder](https://www.linkedin.com/in/ayush-tiwari-67b904308/)• 📧 [sakshichilkotibusiness@gmail.com](mailto:sakshichilkotibusiness@gmail.com)
 
 ![Startup Badge](https://img.shields.io/badge/Powered%20By-TACS%20Innovation-brightgreen) ![Status](https://img.shields.io/badge/Status-Building-blue) ![License](https://img.shields.io/badge/License-MIT-purple)
 
