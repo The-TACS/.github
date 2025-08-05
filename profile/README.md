@@ -37,6 +37,8 @@ We design, develop, and deploy:
 ### 🎮 [Elemental‑Realms](https://github.com/The-TACS/Elemental-Realms-)
 
 AI + Web3 Gaming Platform built in Unity. NFT avatars, real-time voice commands (Azure), GPT-4 dialogues, and opBNB integration. This project was the **Winner at the BNB AI Hack Delhi at IIT Delhi**, celebrated for blending decentralized gaming with immersive AI interaction.
+
+
 **Tech Stack:**\*\* Unity, C#, GPT-4, Azure Speech, Spring Boot, Web3.js, Moralis, Three.js
 
 ### 🌌 [Exo\_xplore](https://github.com/The-TACS/Exo_xplore)
