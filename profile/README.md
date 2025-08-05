@@ -1,4 +1,4 @@
-# 🚀 Welcome to TACS — Tech Art Code Systems
+# 🚀 Welcome to TACS 
 
 🔧 **Innovating at the intersection of AI, Web3, and Immersive Tech**
 
@@ -28,11 +28,11 @@ We design, develop, and deploy:
 > 🏆 **Highlighted Hackathon Wins & Recognitions:**
 >
 > * 🥇 *BNB AI Hack Delhi (Elemental-Realms)*
-> * 🌍 *NASA Space Apps Challenge (Exo\_xplore)*
+> * 🌍 *NASA Space Apps Challenge (Exo_xplore)*
 > * 🚀 *NeoXGrind Web3 Hackathon (InvoNFT)*
 > * 🎯 *SheBuilds Hackculture (HerNest AI)*
-> * 🥇 *Campus Tech Fest Winner (Glyde Skate)*
-> * 🌐 *Accessibility Challenge Finalist (Voice-Control Pacman)*
+> * 🥇 *HackArCode Hackathon (Glyde Skate)*
+> * 🌐 *Accessibility Challenge Idea (Voice-Control Pacman)*
 
 ### 🎮 [Elemental‑Realms](https://github.com/The-TACS/Elemental-Realms-)
 
@@ -109,22 +109,6 @@ New products under research in generative AI, AI voice agents, and 3D metaverse 
 
 ---
 
-## 📊 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-TACS\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-TACS\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎥 Project Showcase
-
-Here’s a sneak peek into some of our live projects and demos (GIFs coming soon):
-
-* 🌌 [Exo\_xplore Live Demo](#) *(hosted demo or video)*
-* 🎮 [Elemental-Realms Trailer](#)
-* 💸 [InvoNFT Walkthrough](#)
-
----
 
 ## 📩 Call to Recruiters
 
