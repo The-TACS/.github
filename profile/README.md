@@ -9,8 +9,6 @@ Ayush Tiwari – Founder Technical Lead & Architect Ayush drives the core innova
 Sakshi Chilkoti is a highly skilled software developer and innovator at TACS, recognized for her exceptional performance in competitive programming and hackathons, including notable victories at the NASA Space Apps Challenge and the BNB AI Hack. As a pivotal member of the team, she brings extensive technical proficiency in languages like Python, Kotlin, and React.js, and excels in building immersive, AI-driven solutions such as Elemental-Realms and Glyde Skate. Beyond her technical contributions, Sakshi is deeply committed to community growth as a mentor at Katalyst India, blending her hands-on development expertise with a passion for creating impactful, accessible, and user-centric technology that defines the TACS mission.
 
 
-🌐 [GitHub](https://github.com/The-TACS) • [Founder](https://www.linkedin.com/in/ayush-tiwari-67b904308/)• 
-
 ![Startup Badge](https://img.shields.io/badge/Powered%20By-TACS%20Innovation-brightgreen) ![Status](https://img.shields.io/badge/Status-Building-blue) ![License](https://img.shields.io/badge/License-MIT-purple)
 
 ---
