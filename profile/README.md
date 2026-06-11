@@ -4,7 +4,10 @@
 
 We are **TACS**, a next-gen software innovation hub building products that fuse deep tech with creativity. Whether it's full-stack platforms, AI-powered tools, or Web3 gaming ecosystems, we build for impact, scale, and delight.
 
-Ayush Tiwari – Founder Technical Lead & Architect Ayush drives the core innovation at TACS. As the technical architect behind our ecosystem, he bridges the gap between complex deep-tech research and scalable, user-centric software. With a focus on full-stack development, decentralized systems, and AI integration, Ayush is dedicated to pushing the boundaries of what is possible in the Web3 and immersive tech space.
+Ayush Tiwari – Founder Technical Lead & Architect Ayush drives the core innovation at TACS. As the technical architect behind our ecosystem, he bridges the gap between complex deep-tech research and scalable, user-centric software. With a focus on full-stack developmenst, decentralized systems, and AI integration, Ayush is dedicated to pushing the boundaries of what is possible in the Web3 and immersive tech space.
+
+Sakshi Chilkoti is a highly skilled software developer and innovator at TACS, recognized for her exceptional performance in competitive programming and hackathons, including notable victories at the NASA Space Apps Challenge and the BNB AI Hack. As a pivotal member of the team, she brings extensive technical proficiency in languages like Python, Kotlin, and React.js, and excels in building immersive, AI-driven solutions such as Elemental-Realms and Glyde Skate. Beyond her technical contributions, Sakshi is deeply committed to community growth as a mentor at Katalyst India, blending her hands-on development expertise with a passion for creating impactful, accessible, and user-centric technology that defines the TACS mission.
+
 
 🌐 [GitHub](https://github.com/The-TACS) • [Founder](https://www.linkedin.com/in/ayush-tiwari-67b904308/)• 
 
